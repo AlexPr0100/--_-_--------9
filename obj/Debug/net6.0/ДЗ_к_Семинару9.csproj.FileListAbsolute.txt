@@ -1,0 +1,15 @@
+E:\ДЗ_к_Семинару9\bin\Debug\net6.0\ДЗ_к_Семинару9.exe
+E:\ДЗ_к_Семинару9\bin\Debug\net6.0\ДЗ_к_Семинару9.deps.json
+E:\ДЗ_к_Семинару9\bin\Debug\net6.0\ДЗ_к_Семинару9.runtimeconfig.json
+E:\ДЗ_к_Семинару9\bin\Debug\net6.0\ДЗ_к_Семинару9.dll
+E:\ДЗ_к_Семинару9\bin\Debug\net6.0\ДЗ_к_Семинару9.pdb
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.csproj.AssemblyReference.cache
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.GeneratedMSBuildEditorConfig.editorconfig
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.AssemblyInfoInputs.cache
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.AssemblyInfo.cs
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.csproj.CoreCompileInputs.cache
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.dll
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\refint\ДЗ_к_Семинару9.dll
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.pdb
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ДЗ_к_Семинару9.genruntimeconfig.cache
+E:\ДЗ_к_Семинару9\obj\Debug\net6.0\ref\ДЗ_к_Семинару9.dll
